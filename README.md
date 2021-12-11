@@ -1,3 +1,7 @@
 # bread-or-alive
 
-Personal website for the random food I make.
+Leven and Smell! Let's Crock (Pot)!
+
+## To Do:
+- [ ] Create First Post
+- [ ] Schedule Things to make so there is a post at every certain interval
