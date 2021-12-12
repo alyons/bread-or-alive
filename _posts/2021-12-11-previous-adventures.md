@@ -8,6 +8,7 @@ tags:
  - gallery
 gallery:
   - url: /assets/images/2021-12-11/20191026_171357.jpg
+    image_path: /assets/images/2021-12-11/20191026_171357.jpg
     alt: "Image 1"
     title: "Sous Vide Chicken with a Mustard Glazed a bit over seared"
 ---
