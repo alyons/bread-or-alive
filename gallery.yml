@@ -1,16 +1,8 @@
----
-title: "Previous Adventures"
-date: 2021-12-11T16:30:00
-categories:
- - blog
-tags:
- - food
- - gallery
 gallery:
-  - url: /assets/images/2021-12-11/20191026_171357.jpg
-    image_path: /assets/images/2021-12-11/20191026_171357.jpg
-    alt: "Image 1"
-    title: "Sous Vide Chicken with a Mustard Glazed a bit over seared"
+  - url: /assets/images/2021-12-11/20200326_075931.jpg
+    image_path: /assets/images/2021-12-11/20200326_075931.jpg
+    alt: "Image 0"
+    title: "Image 0 title caption"
   - url: /assets/images/2021-12-11/20200216_082704.jpg
     image_path: /assets/images/2021-12-11/20200216_082704.jpg
     alt: "Image 1"
@@ -327,9 +319,3 @@ gallery:
     image_path: /assets/images/2021-12-11/20191225_160444.jpg
     alt: "Image 79"
     title: "Image 79 title caption"
----
-
-So, I have plenty of previous adventures in cooking. I figured I would at least post most of those pictures here, 
-and keep a history of what I have done.
-
-{% include gallery caption="Food I've made, starting from October 2019" %}
